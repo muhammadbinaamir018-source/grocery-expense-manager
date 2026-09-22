@@ -36,27 +36,27 @@ The project is currently being developed with a focus on practical expense manag
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshorts/dashboard.png)
 
 ### Purchase History
 
-![Purchase History](screenshots/purchase-history.png)
+![Purchase History](screenshorts/purchase-history.png)
 
 ### Purchase Details
 
-![Purchase Details](screenshots/addpurchase.png)
+![Purchase Details](screenshorts/addpurchase.png)
 
 ### Stores
 
-![Stores](screenshots/stores.png)
+![Stores](screenshorts/stores.png)
 
 ### Categories
 
-![Categories](screenshots/categories.png)
+![Categories](screenshorts/categories.png)
 
 ### expense
 
-![Categories](screenshots/expense.png)
+![Categories](screenshorts/expense.png)
 
 ## Project Structure
 
